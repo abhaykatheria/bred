@@ -3,7 +3,9 @@
 }
 .Main{
     height: 100vh;
-    padding: 100px;     
-    position: relative;
+    /* padding: 100px;      */
+    /* position: relative; */
     overflow-y:scroll;
+    /* justify-content: center; */
 }
+
