@@ -1,0 +1,12 @@
+.phoneParent{
+    position: relative;
+    height: 70vh;
+}
+.phone{
+    /* background-color: aliceblue; */
+    /* color: black; */
+    height: 70vh;
+    position: fixed;
+    border-radius: 50px;
+    padding: 10px;
+}
